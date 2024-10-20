@@ -1,0 +1,6 @@
+This app is a simple music game where the user needs to click on the notes on the screen to get points. 
+The game will play a piece of music and the notes will appear with the rhythm of the music and the user needs to click on the notes to get the score. 
+At the end of the game the user's final score is displayed.
+
+-Use the Pygame library to implement the game's graphics and audio processing.
+-Uses the Librosa library to analyse the rhythm of the music and generate notes.
